@@ -1,0 +1,8 @@
+git init
+git add /filename
+git add.(to add all files to git) 
+git status /filename
+git restore /filename
+git remote -v 
+git commit -m "file added"
+git push origin master (ye likhna h vs code mai github mai push krne k liye)
