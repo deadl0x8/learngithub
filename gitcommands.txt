@@ -7,3 +7,7 @@ git remote -v
 git commit -m "file added"
 git push origin master (ye likhna h vs code mai github mai push krne k liye)
 git remote add origin /ulr
+clear 
+rm sampl.py
+ls
+git remote set-url origin https://github.com
