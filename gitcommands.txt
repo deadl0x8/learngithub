@@ -12,3 +12,6 @@ rm sampl.py
 ls
 git remote set-url origin https://github.com
 git pull origin master
+git branch
+git branch dev
+git switch dev
